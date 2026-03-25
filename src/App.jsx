@@ -12,7 +12,7 @@ import Md from "./components/coursesRoutes/Md";
 import AboutUs from "./pages/AboutUs";
 import ContactUs from "./pages/ContactUs";
 import EnquiryForm from "./pages/EnquiryForm";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 import styles from './App.module.css'
 import Exam from "./pages/Exam";
 import Bams from "./components/coursesRoutes/Bams";

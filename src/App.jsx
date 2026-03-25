@@ -1,5 +1,5 @@
 import { Routes, Route, useNavigate, Navigate, Form } from "react-router-dom";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import TopBar from "./components/TopBar/TopBar";
 import Navbar from "./components/NavBar/NavBar";
 import { useEffect, useState } from "react";
@@ -23,7 +23,7 @@ import Bms from "./components/coursesRoutes/Bms";
 import Bbm from "./components/coursesRoutes/Bbm";
 import Bhmct from "./components/coursesRoutes/Bhmct";
 import Mhm from "./components/coursesRoutes/Mhm";
-import Ballb from "./components/coursesRoutes/ballb";
+import Ballb from "./components/coursesRoutes/Ballb";
 import Llb from "./components/coursesRoutes/Llb";
 import Courses from "./pages/Courses";
 import EngineeringColleges from "./pages/EngineeringColleges";

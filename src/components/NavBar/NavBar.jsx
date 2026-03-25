@@ -1,5 +1,5 @@
 import { useState } from "react";
-import styles from "./styles/Navbar.module.css";
+import styles from "./styles/NavBar.module.css";
 import { HoverTile } from "../courseDetails/HoverTile";
 import { menuLinks } from "./styles/helper/menuLink";
 import logo from '../../assets/careerzone.png'

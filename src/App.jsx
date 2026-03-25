@@ -1,7 +1,7 @@
 import { Routes, Route, useNavigate, Navigate, Form } from "react-router-dom";
 import Home from "./pages/home";
-import TopBar from "./components/topBar/topBar";
-import Navbar from "./components/navBar/navBar";
+import TopBar from "./components/TopBar/TopBar";
+import Navbar from "./components/NavBar/NavBar";
 import { useEffect, useState } from "react";
 import { BTech } from "./components/coursesRoutes/BTech";
 import { MTech } from "./components/coursesRoutes/MTech";
